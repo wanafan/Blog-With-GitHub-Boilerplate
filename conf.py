@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "wanafan.github.io/Blog-With-GitHub-Boilerplate"
 }
 
 # 站点设置
